@@ -12966,11 +12966,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maksy\\source\\repos\\Site_LNU\\Site_LNU\\Site_LNU.csproj",
+      "projectUniqueName": "C:\\Users\\maksy\\source\\repos\\SimpleLNUSite\\Site_LNU\\Site_LNU\\Site_LNU.csproj",
       "projectName": "Site_LNU",
-      "projectPath": "C:\\Users\\maksy\\source\\repos\\Site_LNU\\Site_LNU\\Site_LNU.csproj",
+      "projectPath": "C:\\Users\\maksy\\source\\repos\\SimpleLNUSite\\Site_LNU\\Site_LNU\\Site_LNU.csproj",
       "packagesPath": "C:\\Users\\maksy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maksy\\source\\repos\\Site_LNU\\Site_LNU\\obj\\",
+      "outputPath": "C:\\Users\\maksy\\source\\repos\\SimpleLNUSite\\Site_LNU\\Site_LNU\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

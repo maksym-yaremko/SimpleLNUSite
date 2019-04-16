@@ -1,7 +1,4 @@
 ﻿@model Site_LNU.ViewModels.EditUserViewModel
-@{
-    ViewBag.Title = "Редактирование пользователя";
-}
 <form asp-action="Edit" asp-controller="Users">
     <div asp-validation-summary="All" class="text-danger"></div>
     <div class="form-group">
@@ -12,10 +9,10 @@
         <input type="text" asp-for="Email" class="form-control" />
     </div>
     <div class="form-group">
-        <label asp-for="SumOfMoney" class="control-label">Год рождения</label>
+        <label asp-for="SumOfMoney" class="control-label">Sum of money</label>
         <input type="number" asp-for="SumOfMoney" class="form-control" />
     </div>
     <div class="form-group">
-        <input type="submit" value="Сохранить" class="btn btn-default" />
+        <input type="submit" value="Save" class="btn btn-default" />
     </div>
 </form>

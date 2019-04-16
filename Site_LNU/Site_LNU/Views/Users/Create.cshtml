@@ -1,7 +1,5 @@
 ﻿@model Site_LNU.ViewModels.CreateUserViewModel
-@{
-    ViewBag.Title = "Добавление пользователя";
-}
+
 <form asp-action="Create" asp-controller="Users">
     <div asp-validation-summary="All" class="text-danger"></div>
     <div class="form-group">
@@ -9,11 +7,11 @@
         <input type="text" asp-for="Email" class="form-control" />
     </div>
     <div class="form-group">
-        <label asp-for="Password" class="control-label">Пароль</label>
+        <label asp-for="Password" class="control-label">Password</label>
         <input type="text" asp-for="Password" class="form-control" />
     </div>
     <div class="form-group">
-        <label asp-for="SumOfMoney" class="control-label">Год рождения</label>
+        <label asp-for="SumOfMoney" class="control-label">Sum of money</label>
         <input type="number" asp-for="SumOfMoney" class="form-control" />
     </div>
     <div class="form-group">

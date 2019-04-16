@@ -45,7 +45,6 @@ C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\bin\Debug\netcoreapp
 C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\bin\Debug\netcoreapp2.2\Site_LNU.pdb
 C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\bin\Debug\netcoreapp2.2\Site_LNU.Views.dll
 C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\bin\Debug\netcoreapp2.2\Site_LNU.Views.pdb
-C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Site_LNU.csprojAssemblyReference.cache
 C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Site_LNU.csproj.CoreCompileInputs.cache
 C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Site_LNU.RazorAssemblyInfo.cache
 C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Site_LNU.RazorAssemblyInfo.cs
@@ -78,3 +77,14 @@ C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp
 C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Site_LNU.dll
 C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Site_LNU.pdb
 C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Site_LNU.csproj.CopyComplete
+C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Razor\Views\Phones\Create.g.cshtml.cs
+C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Razor\Views\Phones\Delete.g.cshtml.cs
+C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Razor\Views\Phones\Details.g.cshtml.cs
+C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Razor\Views\Phones\Edit.g.cshtml.cs
+C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Razor\Views\Phones\Index.g.cshtml.cs
+C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Create.g.cshtml.cs
+C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Delete.g.cshtml.cs
+C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Details.g.cshtml.cs
+C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Edit.g.cshtml.cs
+C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Index.g.cshtml.cs
+C:\Users\maksy\source\repos\SimpleLNUSite\Site_LNU\Site_LNU\obj\Debug\netcoreapp2.2\Site_LNU.csprojAssemblyReference.cache

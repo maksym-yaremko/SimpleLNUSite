@@ -42,7 +42,7 @@ namespace Site_LNU.Controllers
                 {
                     // установка куки
                     await _signInManager.SignInAsync(user, false);
-                    return RedirectToAction("Home", "Home");
+                    return RedirectToAction("Index", "Phones");
                 }
                 else
                 {
@@ -77,7 +77,7 @@ namespace Site_LNU.Controllers
                     }
                     else
                     {
-                        return RedirectToAction("Home", "Home");
+                        return RedirectToAction("Index", "Phones");
                     }
                 }
                 else

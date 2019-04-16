@@ -14,5 +14,7 @@ namespace Site_LNU.Models
         {
             Database.EnsureCreated();
         }
+        public DbSet<Phone> Phones { get; set; }
+        public DbSet<Order> Orders { get; set; }
     }
 }

@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Site_LNU.Models.User>
+
+<h2 class="header"><b>The list of users</b></h2>
+<table class="table">
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.Email</td>
+            <td>
+                <a class="btn btn-sm btn-primary" asp-action="Edit" asp-route-userid="@user.Id">Права доступа</a>
+            </td>
+        </tr>
+    }
+</table>
+
+<style>
+    .header {
+        text-align: center;
+        font-family: Courier;
+        color: cadetblue;
+        font-size: 50px;
+    }
+
+    body {
+        background: #e0e0e0;
+        font-family: 'Roboto', sans-serif;
+    }
+</style>

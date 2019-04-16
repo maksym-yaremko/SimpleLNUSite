@@ -1,0 +1,44 @@
+﻿
+
+
+@if (User.Identity.IsAuthenticated)
+{
+    <form method="post" asp-controller="Account" asp-action="LogOff">
+        <div class="text-right">
+            <input class="btn btn-primary " type="submit" value="LogOff" />
+        </div>
+    </form>
+    <p style="text-align:center">Hello , @User.Identity.Name</p>
+
+
+    <p></p>
+    <p>
+        @if (User.Identity.IsAuthenticated)
+        {
+            @if (User.IsInRole("admin"))
+            {
+                <a asp-controller="Roles" asp-action="Index"><button class="btn btn-success btn-lg">Roles</button></a>
+                <a asp-controller="Users" asp-action="Index"><button class="btn btn-success btn-lg">Users</button></a>
+            }
+        }
+    </p>
+}
+else
+{
+    <a asp-controller="Account" asp-action="Login">Вход</a>
+    <a asp-controller="Account" asp-action="Register">Регистрация</a>
+}
+
+<style>
+    .header {
+        text-align: center;
+        font-family: Courier;
+        color: cadetblue;
+        font-size: 50px;
+    }
+
+    body {
+        background: #e0e0e0;
+        font-family: 'Roboto', sans-serif;
+    }
+</style>

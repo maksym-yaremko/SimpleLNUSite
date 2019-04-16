@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2 class="header"><b>Simple phone shop</b></h2>
+
+<style>
+    .header{
+        text-align:center;
+        font-style:normal;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .center {
+
+        margin-top: 300px;
+        text-align: center;
+    }
+    .btn {
+        min-width: 250px;
+        min-height:50px;
+    }
+</style>
+<div class="center">
+    <a asp-controller="Account" asp-action="Login"><button class="btn btn-primary btn-lg">Login</button></a>
+    <a asp-controller="Account" asp-action="Register"><button class="btn btn-success btn-lg">Register</button></a>
+</div>
+
+<style>
+    .header {
+        text-align: center;
+        font-family: Courier;
+        color: cadetblue;
+        font-size: 50px;
+    }
+</style>
